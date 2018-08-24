@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students_details>
+	<student>
+		<studentid email="aagrahar@deakin.edu.au">217550162</studentid>
+		<lastname>Agrahari Baniya</lastname>
+		<firstname>Arbind</firstname>
+		<address>5 Shaw Street, Fawkner</address>
+	</student>
+	<student>
+		<studentid email="mehta.sandeep@gmail.com">21734589</studentid>
+		<lastname>Mehta</lastname>
+		<firstname>Sandeep</firstname>
+		<address>Unit 2 5 Shaw Street, Fawkner</address>
+	</student>
+	<student>
+		<studentid email="priya@deakin.edu.au">2134590</studentid>
+		<lastname>Kushwaha</lastname>
+		<firstname>Priya</firstname>
+		<address>65,Middleborough Road,Vic 3125</address>
+	</student>
+	<student>
+		<studentid email="man@deakin.edu.au">213456890</studentid>
+		<lastname>Agrahari</lastname>
+		<firstname>Manju</firstname>
+		<address>Tilottama 09, Bhalwari, Nepal</address>
+	</student>
+</students_details>

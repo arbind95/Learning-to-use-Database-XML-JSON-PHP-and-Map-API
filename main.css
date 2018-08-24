@@ -1,0 +1,97 @@
+
+ body{
+   color:white;
+ }
+#loginform {
+    border: 3px solid #f1f1f1;
+	width:800px;
+	height:700px;
+	margin-top:100px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#searchForm{
+border: none;
+margin-left:auto;
+margin-right:auto;
+}
+
+/* Full-width inputs */
+input[type=text], input[type=password], input[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+#captchainput{
+	width:200px;
+}
+#mainCaptcha{
+	font-family: "Comic Sans MS", Comic Sans, cursive;
+	font-size:20px;
+	background-color: skyblue;
+    color: white;
+    padding-left: 50px;
+    margin-left: 5px;
+	margin-right: 5px;
+    border: none;
+    cursor: pointer;
+    width: 150px;
+}
+#login {
+    background-color: skyblue;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+
+button:hover {
+    opacity: 0.8;
+}
+
+
+
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+
+
+img.avatar {
+    width: 40%;
+    border-radius: 50%;
+}
+
+.container {
+    padding: 16px;
+}
+
+
+table{
+	border: none;
+	width: 100%;
+	color: #FFFFFF;
+	
+
+}
+th, td {
+    padding: 15px;
+    text-align: center;
+}
+table tr:nth-child(even) {
+    background-color: #B6BDC0;
+}
+table tr:nth-child(odd) {
+    background-color: #49616A;
+}
+th{
+	font-size:20px;
+	color:#FFFFFF;
+	background-color:#0C4155;
+}
